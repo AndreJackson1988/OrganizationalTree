@@ -1,0 +1,15 @@
+id,parent id,name
+1,,Transformer
+2,1,HV Switch Board
+3,2,Low Voltage Switch Board
+4,3,UPS Board
+5,4,Distribution Board 1
+6,4,Distribution Board 2
+7,5,CRAH-1-1
+8,5,CRAH-1-2
+9,5,CRAH-1-3
+10,5,CRAH-1-4
+11,6,CRAH-1-5
+12,6,CRAH-1-6
+13,6,CRAH-1-7
+14,6,CRAH-1-8
