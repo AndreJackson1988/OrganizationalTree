@@ -1,4 +1,4 @@
-id,parent id,name
+id,parentId,name
 1,,Transformer
 2,1,HV Switch Board
 3,2,Low Voltage Switch Board
